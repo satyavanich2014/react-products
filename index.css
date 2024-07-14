@@ -1,0 +1,61 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+   
+
+
+.handleFourplus{
+height:100px;
+width:100px;
+
+}
+
+.title{
+    font-size:x-large;
+    margin-top: 10px;
+    color: brown;
+    margin: 2px;
+}
+.price{
+    margin: 2px;
+    margin-top: 10px;
+    color:blue;
+}
+.description{
+    color:black;
+    margin-top: 10px;
+    font-size: large;
+}
+.category{
+    color:black;
+    margin-top: 10px;
+    font-size: large;  
+}
+.rating{
+    color:red;
+    margin-top: 10px;
+    font-size: large;  
+}
+.count{
+    color:black;
+    margin-top: 10px;
+    font-size: large;  
+}
+
+.card{
+display: evenly;
+justify-content: center;
+text-align: center;
+border:  3px solid black;
+border-radius: 10px;
+margin-top: 5px;
+
+
+
+}
+.handleFourplus{
+    background-color: blue;
+    color:aliceblue;
+}
